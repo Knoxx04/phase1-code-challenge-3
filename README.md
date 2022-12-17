@@ -21,10 +21,12 @@ This is a program that displays a list of films.When an item in the list is clic
 
 - open in vs code or text editor of your choice
 
+                code .
+
 - To access the program click on the following link
 (https://effortless-basbousa-a7ec6d.netlify.app/)
 
 ## Authors and contributors
 - The author of this project is Lennox
- 
+
 - Contributed by Albert Byrone         
